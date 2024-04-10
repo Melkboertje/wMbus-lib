@@ -19,6 +19,6 @@
   ],
   "dependencies": {
     "SPI": "*",
-    "url": "https://github.com/Melkboertje/SmartRC-CC1101-Driver-Lib"
+    "lsatan/SmartRC-CC1101-Driver-Lib": "^2.5.7"
   }    
 }
