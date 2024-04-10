@@ -19,6 +19,6 @@
   ],
   "dependencies": {
     "SPI": "*",
-    "melkboertje/SmartRC-CC1101-Driver-Lib": "^2.5.7"
+    "lsatan/SmartRC-CC1101-Driver-Lib": "^2.5.7"
   }    
 }
