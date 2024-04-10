@@ -19,6 +19,6 @@
   ],
   "dependencies": {
     "SPI": "*",
-    "Melkboertje/SmartRC-CC1101-Driver-Lib": "*"
+    "Melkboertje/SmartRC-CC1101-Driver-Lib": "main"
   }    
 }
