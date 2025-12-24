@@ -19,9 +19,6 @@
   ],
   "dependencies": {
     "SPI": "*",
-    "SmartRC-CC1101-Driver-Lib": {
-      "type": "git",
-      "url": "https://github.com/Melkboertje/SmartRC-CC1101-Driver-Lib.git"
-    }
+    "SmartRC-CC1101-Driver-Lib": "https://github.com/Melkboertje/SmartRC-CC1101-Driver-Lib.git"
   }
 }
